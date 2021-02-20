@@ -1,0 +1,1 @@
+docker run -it --rm --name $IMAGE_NAME $IMAGE_NAME:$IMAGE_VERSION
